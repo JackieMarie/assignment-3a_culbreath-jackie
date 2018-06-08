@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 3a - Test
 ## Jackie Culbreath
 
 >I have read the Code Requirements Reference Sheet. My code follows the requirements.
@@ -21,3 +21,5 @@
 
 ### Comments
 Added sass to my project. Issues with the checkout master and permission being denied to README and index files. This issue is wiping out all of my files in my Github/assignment-3_culbreath-jackie file in  in my File Explorer. My work around is to quickly copy the contents out of the open files in Atom, and create new files in another directory using Sublime text. I am unable to upload the files to my repository. Updated README file on master and part-1-b on Github.
+
+Assignment 3a is to test workarounds to technical issues.
